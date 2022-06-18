@@ -1,0 +1,2 @@
+Aşağıdaki adresten veri setlerini alınız.
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
